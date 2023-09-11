@@ -4,7 +4,8 @@ using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
-
+//Couldn't find a solution to 'Enable Migration'
+// Carnet: MA201906
 namespace MVCSimpleApp.Models
 {
     public class Employee
